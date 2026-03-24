@@ -4,3 +4,4 @@ torchvision
 numpy
 matplotlib
 streamlit
+streamlit_webrtc
